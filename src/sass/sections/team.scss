@@ -124,6 +124,7 @@
     padding: 14px 14px;
     color: $after-color;
     background-color: $hover-color;
+    transition: $transition-hover;
     
     &--img {
     width: 26px;
